@@ -82,9 +82,5 @@ Responsive personal site built with Next.js + Tailwind | Custom animation + lazy
 </p>
 """
 
-file_path_motion = "/mnt/data/README_animated.md"
-with open(file_path_motion, "w", encoding="utf-8") as f:
-    f.write(animated_readme)
 
-file_path_motion
 
