@@ -80,7 +80,3 @@ Responsive personal site built with Next.js + Tailwind | Custom animation + lazy
 <p align="center">
   <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" />
 </p>
-"""
-
-
-
