@@ -62,7 +62,7 @@ Responsive personal site built with Next.js + Tailwind | Custom animation + lazy
 
 <p align="center">
   <a href="https://www.credly.com/badges/e56e8a83-0fa0-4098-80a1-68c0fc15b12b/public_url" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/0c83f4ac-4fd4-4c30-bb85-2e3b0a28e95e/image.png" alt="AWS Machine Learning Foundations" width="200" />
+    <img src="https://images.credly.com/size/680x680/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" alt="AWS Machine Learning Foundations" width="200" />
   </a>
 </p>
 
