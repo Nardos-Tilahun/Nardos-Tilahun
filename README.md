@@ -58,6 +58,23 @@ Responsive personal site built with Next.js + Tailwind | Custom animation + lazy
 
 ---
 
+## 🏅 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/e56e8a83-0fa0-4098-80a1-68c0fc15b12b/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/0c83f4ac-4fd4-4c30-bb85-2e3b0a28e95e/image.png" alt="AWS Machine Learning Foundations" width="200" />
+  </a>
+</p>
+
+<p align="center"><b>AWS Machine Learning Foundations</b></p>
+
+<p align="center">
+  <i>Credentialed by AWS and Udacity — a strong foundation in machine learning, data modeling, and ethical AI practices.</i><br/>
+  <a href="https://www.credly.com/badges/e56e8a83-0fa0-4098-80a1-68c0fc15b12b/public_url" target="_blank">🔗 View Certificate on Credly</a>
+</p>
+
+---
+
 ## 🎓 Education
 
 **M.Sc. in Computer Science @ HiLCoE**  
