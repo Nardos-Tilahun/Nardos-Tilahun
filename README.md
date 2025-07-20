@@ -77,8 +77,18 @@ Responsive personal site built with Next.js + Tailwind | Custom animation + lazy
 
 ## 🎓 Education
 
-**M.Sc. in Computer Science @ HiLCoE**  
-> GPA: 3.9/4.0 | Focus: Distributed Systems, Machine Learning, Cybersecurity
+
+** M.Sc. in Computer Science @ HiLCoE /To be completed soon/**  
+> CGPA: 3.9/4.0 | Focus: Advance Algorithm and Strucutre, Advance Netowrking and Security, Data Mining and Business Intellegence, Natural Language Processing, Advanced Database, System Thinking and Design
+
+** Full Stack Web Development Prgram in Evangadi Tech (USA based company) **
+> Among Top 5%  | Focus on MERN Stack, differnt hand on projects in MySQL, React, Node with Express
+
+** Software Engineering Course with Backend Specialist in ALX Software Engineering Program **
+> Graduate with 94% | Linux, Shell script, C++, Python, Django, Next.js
+
+** Other Short Course Program **
+> In Data Analytics, Data Science, AI , Machine Learning, Agents, Modern Architecture (MCP / Model Context Protocol) in ALX, Udacity, Coursera,
 
 ---
 
