@@ -97,7 +97,8 @@ Responsive personal site built with Next.js + Tailwind | Custom animation + lazy
 - 📧 contactnardos@gmail.com  
 - 📱 +251 949 494319  
 - 🌐 [GitHub](https://github.com/Nardos-Tilahun)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nardosdubale/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nardosdubale/)
+- 🌐 [Portfolio](https://www.my-portfolio-bwqp.onrender.com/)
 
 ---
 
