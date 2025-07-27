@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+Senior+Full+Stack+Developer;🤖+AI+Software+Creator;🧠+Systems+Architect;🚀+Tech+Innovator&center=true&size=30&duration=3500" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+Senior+Full+Stack+Developer;🤖+AI+First+Software+Creator;🧠+Systems+Architect;🚀+Tech+Innovator&center=true&size=30&duration=3500" />
 </h1>
 
 <p align="center">
