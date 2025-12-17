@@ -11,7 +11,7 @@
   <a href="mailto:contactnardos@gmail.com">📧 Email</a> •
   <a href="https://github.com/Nardos-Tilahun">💻 GitHub</a> •
   <a href="https://my-portfolio-bwqp.onrender.com/">🌐 Portfolio</a> •
-  <a href="https://personal-loan-management.onrender.com/">📊 Live Demo</a> •
+  <a href="https://mind-breaker.vercel.app//">📊 Sample Live Demo</a> •
   <a href="https://www.linkedin.com/in/nardosdubale/">🔗 LinkedIn</a>
 </p>
 
